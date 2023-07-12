@@ -9,7 +9,7 @@ terraform {
 }
 
 variable "first_value" {
-  default = 8
+  default = 9
   type    = number
 }
 
